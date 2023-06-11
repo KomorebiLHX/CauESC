@@ -5,7 +5,7 @@ This is the repository of our EMNLP 2023 paper CauESC: A Causal Aware Model for 
 The source code will be released after the relevant paper accepted. If your want to make a **human evaluation** with CauESC, the results are available in `cauesc_result`. And **automatic evaluation** can be used as follows.
 
 | Model            | ACC(%)↑ |  PPL↓  | R-L↑  | B-2↑ | B-3↑ | B-4↑ | D-1↑ | D-2↑  |
-| ---------------- | :-----: | :----: | :---: | :--: | :--: | :--: | :--: | :---: |
+| :--------------- | :-----: | :----: | :---: | :--: | :--: | :--: | :--: | :---: |
 | Transformer      |    -    | 114.75 | 14.64 | 6.20 | 3.07 | 1.85 | 0.13 | 0.28  |
 | MT Transformer   |    -    | 109.44 | 14.94 | 5.99 | 2.60 | 1.37 | 0.15 | 0.35  |
 | MoEL             |    -    | 57.03  | 13.93 | 5.48 | 2.40 | 1.25 | 0.74 | 4.12  |
