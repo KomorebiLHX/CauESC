@@ -1,0 +1,1183 @@
+[
+  {
+    "dialog_id": 62,
+    "emotion_type": "fear",
+    "problem_type": "job crisis",
+    "situation": "Anxiety about losing my job",
+    "dialog": [
+      {
+        "text": "Do you need help?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "What is the real issue?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I don't even know, because I am not happy",
+        "speaker": "usr"
+      },
+      {
+        "text": "Anxiety about losing my job",
+        "speaker": "usr"
+      },
+      {
+        "text": "I have been sad at times, but I listen to pleasant music.",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "When have you started feeling sad?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I had fear of losing my job at times.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "I suggest doing stress relieving tasks",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "I can't think of that of now, because last three month a go pay cut and nest month payoff",
+        "speaker": "usr"
+      },
+      {
+        "text": "Can you repeat that? You had a pay cut in the last three months?",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "Yeah and the company is planning layoff for some of the staffs",
+        "speaker": "usr"
+      },
+      {
+        "text": "How do you know that layoffs are coming?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "Why not try to work for Uber or Lyft to supplement your income?",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "They sent circular to all staffs",
+        "speaker": "usr"
+      },
+      {
+        "text": "What did it state? I am sorry to hear the news.",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "Have you looked at updating your resume and looking on job boards?",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "No I think I will just do that now may be it will help",
+        "speaker": "usr"
+      },
+      {
+        "text": "That is a great comment. Being pro-active and looking for similar jobs can help.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "Yeah thanks",
+        "speaker": "usr"
+      },
+      {
+        "text": "It' good to take initiative and start looking for other sources of income.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "I believe it work if I try.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I usually search job boards. It is what I have dine in the past.",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "It is important to believe in yourself.",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "I am thinking about uber",
+        "speaker": "usr"
+      },
+      {
+        "text": "I can also suggest Lyft...",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "What other feelings and thoughts can I discern for you?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I can't think of any now thanks for being there for me",
+        "speaker": "usr"
+      },
+      {
+        "text": "Bye for now",
+        "speaker": "usr"
+      },
+      {
+        "text": "I think that I can be here to answer.",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Thanks it time to go",
+        "speaker": "usr"
+      },
+      {
+        "text": "How are my suggestions helping to reduce your unhappy demeanor?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "OK. You can click the Quit/Finish",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Very helpful thanks and bye",
+        "speaker": "usr"
+      }
+    ]
+  },
+  {
+    "dialog_id": 903,
+    "emotion_type": "anxiety",
+    "problem_type": "ongoing depression",
+    "situation": "Having been having panic attacks more often now that we are in quarantined",
+    "dialog": [
+      {
+        "text": "Hi how are you",
+        "speaker": "usr"
+      },
+      {
+        "text": "Could b better",
+        "speaker": "usr"
+      },
+      {
+        "text": "I understand it could be better",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "What is going on?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "My day could be better too sometimes, it may help to talk about it.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Ive been more depressed and more panic attacks since the quarantine",
+        "speaker": "usr"
+      },
+      {
+        "text": "It sounds like you are really worried and have anxiety over the qurantine.",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "From my experience it has helped tremendously to take a few deep breaths",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Yes so much. Afraid of getting it and than giving it to my very sick mlm",
+        "speaker": "usr"
+      },
+      {
+        "text": "I also have been worried about getting it and passing it on. I have been taking extra precautions to stay home and wash my hands often to try and prevent it.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Sometimes I don't think that's enough to prevent. My mom has cancer and it's been hurting not being able to see her because I don't want to take that risk",
+        "speaker": "usr"
+      },
+      {
+        "text": "That is so difficult that you are concerned and upset that you can't see her.",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "In my experience I've used video chat to help me get through hard times when I couldn't see my loved ones in person.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Yeah I've tried but it's not th same. Wish I could b there to help her through this. But with everything going on it's so hard",
+        "speaker": "usr"
+      },
+      {
+        "text": "That's really hard, but I think you have it in you to keep doing your best and staying safe.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "I guess so it's a struggle everyday. Appreciate talking to someone though",
+        "speaker": "usr"
+      },
+      {
+        "text": "I'm happy you were able to talk to me, I know talking about how I'm feeling helps me feel better sometimes.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      }
+    ]
+  },
+  {
+    "dialog_id": 325,
+    "emotion_type": "depression",
+    "problem_type": "ongoing depression",
+    "situation": "I have been feeling down and depressed every day for months, mainly due to self-esteem issues.",
+    "dialog": [
+      {
+        "text": "Hello there, how are you feeling today?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I'm feeling pretty awful... I've been down and depressed for months now. It's hard to get through the days.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I understand. Is this related to the pandemic or is it something separate? I am sure that the pandemic has not helped, though!",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "It's definitely related! I lost my dream job, went to a lower paying one, and I gained a lot of weight while working from home.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Oh I can certainly relate to that one! I've gained a stone and a half in the last year. All this sitting around is not good for us!",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "It's definitely nice to know that other people are having similar emotions as me.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Sometimes just having someone to talk to who knows how you are feeling can be really helpful I think.",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "It's sad that this year has been so awful. It's hard to convince myself that it's getting better any time soon..",
+        "speaker": "usr"
+      },
+      {
+        "text": "Can you make a list of all the things that you hope will be better next year so you can tick them off one by one?",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "1. Better job 2. Healthier habits 3. Better financial situation",
+        "speaker": "usr"
+      },
+      {
+        "text": "Well, the first and third one are out of your control really but you could make a start on the first one today if you liked :)",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "It's hard to take the first steps. I don't even know where to begin, sadly.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I can understand that. Perhaps you could join an exercise class or similar?",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "That's a pretty good idea. Have you ever done something like that?",
+        "speaker": "usr"
+      },
+      {
+        "text": "I took an aerobics class once. It was quite fun and it was good exercise.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "That does sound like fun. Do you have any other suggestions?",
+        "speaker": "usr"
+      },
+      {
+        "text": "Well, it's maybe not the best time to be taking on a financial commitment but have you ever considered adopting a dog? Good company and good exercise",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Actually, I have a cat!",
+        "speaker": "usr"
+      },
+      {
+        "text": "Ah I have two - they are wonderful company. Alas you can't really walk with them though :)",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "They are great company. Sometimes when I am really feeling down, I remember that my cat needs me, so I need to stay strong.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Pets are great like that. Do you perhaps have a neighbour whose dog you could walk if you can't get one of your own?",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "That's a great idea. I just moved into a new apartment complex a couple weeks ago. Maybe I can get to know my neighbors. A lot of them have dogs.",
+        "speaker": "usr"
+      },
+      {
+        "text": "It's a great way to make new friends too!",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "Would you consider doing some voluntary work whilst you are out of work?",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "That's also a good idea. I know a lot of food banks around me are in need of volunteers.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I think it would be a really worthwhile thing to do and you would get to meet new people too",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "I hope I have been able to help you a little!",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "I agree. I feel like I have a bunch of new ideas to start feeling better. I appreciate you talking to me.",
+        "speaker": "usr"
+      },
+      {
+        "text": "You are very welcome, it was my pleasure. Have a great day!",
+        "speaker": "sys",
+        "strategy": "Others"
+      }
+    ]
+  },
+  {
+    "dialog_id": 410,
+    "emotion_type": "sadness",
+    "problem_type": "ongoing depression",
+    "situation": "My dog died",
+    "dialog": [
+      {
+        "text": "Hi! How are you tonight?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I've been better. I just buried my dog yesterday",
+        "speaker": "usr"
+      },
+      {
+        "text": "She was going to turn 15 next month",
+        "speaker": "usr"
+      },
+      {
+        "text": "Ouch! I'm so sorry to hear that. I never lost a dog, but I've lost cats.",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "Is 14 a good age for a dog?",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "I have my first dog so I don't know much, he is 9 years old and came with our house.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Actually, yes. She was old and had dementia.",
+        "speaker": "usr"
+      },
+      {
+        "text": "The oldest dog I evet had was 15",
+        "speaker": "usr"
+      },
+      {
+        "text": "I'm so sorry, losing a pet is very hard on us.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "How did your dog come with the house?",
+        "speaker": "usr"
+      },
+      {
+        "text": "Was that your only pet? Or do you have others? We moved from FL to KY and the little dog just hung out here, he really belonged to the neighbor's son who didn't want him, so he just ran around wild and wouldn't leave. I never had a dog, but it got cold, so i took him in. They never asked about him and after a week, I asked them if I could have the dog, so they said yes. I don't think they cared.",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I wish I could give you a hug, really, there are no words to make this better as you already know the grief of losing a pet, it does get better, but it stings terribly at first.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "I have 2 other dogs that are mine and my boyfriend has 2",
+        "speaker": "usr"
+      },
+      {
+        "text": "Thank you. that means a lot",
+        "speaker": "usr"
+      },
+      {
+        "text": "We both had dogs when we met.",
+        "speaker": "usr"
+      },
+      {
+        "text": "So you definitely are a dog lover! I was in my 50s before I ever had a dog, now I wish I had more, they are really loving. Not like cats who don't care much about much except FOOD! lol",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "I know when tragedy happens, I can't get stuck in depression, I sort of have to force myself to put one foot in front of the other. It's hard to have a healthy balance between grieving and continuing to live. Cry, then dry my eyes, pick up, go for a walk, don't get caught in grief, but yet don't deny it!",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "They get to be so close and you can really pick up on their emotions and stuff. That's what happens to me. I get stuck sometimes",
+        "speaker": "usr"
+      },
+      {
+        "text": "I get stuck too. But you are doing the right things, here you reached out to someone and I do care, so you are moving forward.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "I always find it helpful just so have someone share my pain with me. Just to know I'm not alone.",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "Thanks. Another person who has pets helps",
+        "speaker": "usr"
+      },
+      {
+        "text": "They understand",
+        "speaker": "usr"
+      },
+      {
+        "text": "I do understand. My mom died in 2010, right after she died, 1 of my cats died, my husband went into the hospital and almost died, so we went on vacation so I would not be consumed with grief, and do you know, we brought our pets and our cat died when we arrived here on vacation? I will never forget that. You know what. I knew I could either get consumed in grief, or push through. Man, that was hard. I prayed a lot and God got me through that and I had a good vacation, all things considered.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "I will definitely pray for you too that God will comfort your heart and that you will be comforted by your other dogs and your boyfriend's dogs and that you will feel joy at times at the happy memories you had with your dog.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "Oh wow, that sounds horrible. Pushing through though I guess is all one can do then. Thank you so much. I believe in prayer.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Prayer is what gets me through every day! :D It was rough, but I believe these hard times strengthen us in some way. Because life throws hard balls, and we have to move forward or be consumed.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "That's true. I'm glad I did this project. You really helped me.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I'm so glad I did too. It was a pleasure to meet you. And once again, (hug). :D",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "You too. Thanks so much. bye",
+        "speaker": "usr"
+      },
+      {
+        "text": "I have one more thing to say - wise words from this 92 year old lady at church named Sue. She told me this after my brother died. When you get older, everyone you know is practically dead. She said \"Life is for the living, if you get caught up to much in all the death, you won't life.\" True words. God bless, have a good night.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      }
+    ]
+  },
+  {
+    "dialog_id": 67,
+    "emotion_type": "anger",
+    "problem_type": "problems with friends",
+    "situation": "They didn't invite me for the party for an special event",
+    "dialog": [
+      {
+        "text": "Hi",
+        "speaker": "usr"
+      },
+      {
+        "text": "I am really very angry with my friends for not inviting me",
+        "speaker": "usr"
+      },
+      {
+        "text": "Why is that?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I didn't did any anything wrong to my friends but they are simply saying they forget me",
+        "speaker": "usr"
+      },
+      {
+        "text": "So they no need on me ,",
+        "speaker": "usr"
+      },
+      {
+        "text": "I am not important person to them",
+        "speaker": "usr"
+      },
+      {
+        "text": "I have been angry with friends as well, but time loves a hero, as they say.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "In my all events i am inviting them all but how they",
+        "speaker": "usr"
+      },
+      {
+        "text": "Why what happen..?",
+        "speaker": "usr"
+      },
+      {
+        "text": "How long have your friends been neglecting you??",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "In last 2 events only , what about you",
+        "speaker": "usr"
+      },
+      {
+        "text": "Any other questions for me?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I know it is hard at times, but be strong.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "You are correct",
+        "speaker": "usr"
+      },
+      {
+        "text": "sometime it will happen , but we should forget and move on",
+        "speaker": "usr"
+      },
+      {
+        "text": "How many best friends do you have ?",
+        "speaker": "usr"
+      }
+    ]
+  },
+  {
+    "dialog_id": 971,
+    "emotion_type": "anxiety",
+    "problem_type": "Procrastination",
+    "situation": "Unable to care for myself while my wife is dealing with medical issues.",
+    "dialog": [
+      {
+        "text": "Hi , can I help you today? Would you like to share anything?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "yes",
+        "speaker": "usr"
+      },
+      {
+        "text": "Do you have anything specific on your mind?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "My wife is having medical issues and is unable to help me",
+        "speaker": "usr"
+      },
+      {
+        "text": "Oh, it seems like you are feeling alone, is that correct?",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "I need help on so many things",
+        "speaker": "usr"
+      },
+      {
+        "text": "Do you have a list of things in any order?",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "The support of my wife has become very clear to me",
+        "speaker": "usr"
+      },
+      {
+        "text": "That sounds very difficult for you and great job reaching out here today.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "I am not lonely, just needing a way to be independent.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I can telling that you are very worried but also very capable because you have taking the time to search for some support.",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "W@ould like to know what to do to be more independent.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Well, I used to feel the same way and I would take the time to call a close friend and spend time with my dogs everyday. Is that something you could do too?",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Support in the community is not evident, would like to find associations.",
+        "speaker": "usr"
+      },
+      {
+        "text": "What would you do.",
+        "speaker": "usr"
+      },
+      {
+        "text": "That is very forward thinking and a great idea. A local church group can often support you.",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "Travel is a problem for Church involvement.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I understand, I have noticed that people who reach our for help as you have will attract people to them. Have you looked into an online church community?",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "There are issues with people at church.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes, I agree that it is hard to find people who can help and not cause more harm. Online communities on reddit have specialized groups for people with your situation too.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Need support that is meaningful and compasionate.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes, I agree. Having time to sit down and write out your thoughts and feelings can sometimes help too. Maybe you can journal your feelings this week.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "I will keep looking. there has got to be help.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes, you have started your journey today and I am very proud of you expressing and identifying your problems. Great first step.",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "The need to continuen is clear, something has got to be available.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes, please use writing to list your feelings and problems this week and check back with us regularly. We are happy to help and always here for you. Thank you very much.",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "Things like appointments are required, how do you get to them?",
+        "speaker": "usr"
+      },
+      {
+        "text": "You can reach out anytime or day and we will assist you.",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Thanks for your help. You have good suggestions.",
+        "speaker": "usr"
+      },
+      {
+        "text": "You're welcome, Bye.",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "Bye",
+        "speaker": "usr"
+      },
+      {
+        "text": "If you don't need anything else, you can kindly, end and finish for today. Thanks.",
+        "speaker": "sys",
+        "strategy": "Others"
+      }
+    ]
+  },
+  {
+    "dialog_id": 1076,
+    "emotion_type": "depression",
+    "problem_type": "breakup with partner",
+    "situation": "My ex who i loved so much and almost gave her everything cheated on me with another guy from my school , my relationship was almost 2 years until she dumped me.... and i had to go through an immense overthinking after the breakup for almost 6-7 months",
+    "dialog": [
+      {
+        "text": "Hello, how are you doing today?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "yea im good are u a pyschiratrist or something",
+        "speaker": "usr"
+      },
+      {
+        "text": "No, I'm just a mturk worker but I'm completely willing to talk to you about stuff. Is there anything you had in mind?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "i have things about overthinking about my past sometimes she flashes on and off through my mind when some of my collegues express their feelings of emotions through their relationships",
+        "speaker": "usr"
+      },
+      {
+        "text": "Is there someone in your past that weighs on your mind?",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "The feelings i put for her the emotions its all gone for waste, she was my first love though",
+        "speaker": "usr"
+      },
+      {
+        "text": "Going through a romantic loss can be a lot to process. You will be able to let go some day.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "yea i ve watched a lot of motivation to help me relax my self , and i ve heard a lot of people say good things to me , my friends and family :) as time passes ill get much better i guess soo",
+        "speaker": "usr"
+      },
+      {
+        "text": "It is definitely helpful to reach out. You got people that like you.",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Yea the only people around is the only valubale thing to u in this world",
+        "speaker": "usr"
+      },
+      {
+        "text": "Do i have to keep talking about my feelings to you ? i can trust you right :)",
+        "speaker": "usr"
+      },
+      {
+        "text": "Definitely keep talking to those people because that's gonna help a ton.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Yeah you can trust me :) I think we have a bit more to go.",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "hmmm great!!! i like you a lot so how do i avoid falling for the wrong one",
+        "speaker": "usr"
+      },
+      {
+        "text": "Take things easy and don't worry too much about it, because things will fall in to place naturally if it is a good fit.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "yea thank you so much",
+        "speaker": "usr"
+      },
+      {
+        "text": "Have u ever fallen in love ?",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes I have a few times, and even though it hurts sometimes it is generally worth the risk.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "you must have gone through a lot i see , yea its worth the risk but also they away all that u have tooo :(",
+        "speaker": "usr"
+      }
+    ]
+  },
+  {
+    "dialog_id": 653,
+    "emotion_type": "anxiety",
+    "problem_type": "academic pressure",
+    "situation": "Due to COVID-19 I can not focus on studies and can't fine help",
+    "dialog": [
+      {
+        "text": "hi",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "Online learning is not seems easy, Seems I am going to fail this year",
+        "speaker": "usr"
+      },
+      {
+        "text": "chill my dear friend, nothing of that sort will happen",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "In-class learning was way better and I learned a lot but now its so confusing",
+        "speaker": "usr"
+      },
+      {
+        "text": "everything you need is a little peace of mind, patience and little more effort",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Even working with online tools is hard",
+        "speaker": "usr"
+      },
+      {
+        "text": "i understand, but just think everyone else like us are doing the same and facing the same difficulties",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "I know but what is I loose a whole year in academic,",
+        "speaker": "usr"
+      },
+      {
+        "text": "Think positive my dear friend",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "Shake all your negatives",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "But I have been in low grades continuously during my last semesters.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Just have the confidence within yourselves and believe in YOU, that is the most important thing",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Stop worrying , and think about what can make it better",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Well it is still hard to understand online learning tools",
+        "speaker": "usr"
+      },
+      {
+        "text": "Watch Youtube videos",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "And my internet sometime screws up when I am submitting the assignments",
+        "speaker": "usr"
+      },
+      {
+        "text": "I tried that but I am not tech savy",
+        "speaker": "usr"
+      },
+      {
+        "text": "Why cant you seek help from a friend of yours who studies well?",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "And who is ready to spend time and help you",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Due to social distancing I am not meeting with many people",
+        "speaker": "usr"
+      },
+      {
+        "text": "But thanks for talking to me it gives me lot of hope",
+        "speaker": "usr"
+      },
+      {
+        "text": "I shall try to learn from Youtube more maybe that is the only solution for online learning",
+        "speaker": "usr"
+      },
+      {
+        "text": "you dont have to meet a lot of people, but atleast one or two of your friends with all the safety measures ? who could really help you,and also one of the best solution can be group studies as well",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "My pleasure dear friend",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      }
+    ]
+  },
+  {
+    "dialog_id": 401,
+    "emotion_type": "sadness",
+    "problem_type": "problems with friends",
+    "situation": "I TALK WITH MY FRIENDSHIP",
+    "dialog": [
+      {
+        "text": "How are you today?",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "is anything bothering you, today?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I am today very sad because my friends fighting with me",
+        "speaker": "usr"
+      },
+      {
+        "text": "what are you fighting about?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "My friends avoiding my phone calls and message",
+        "speaker": "usr"
+      },
+      {
+        "text": "so, you're feeling isolated because of this?",
+        "speaker": "sys",
+        "strategy": "Restatement or Paraphrasing"
+      },
+      {
+        "text": "Yes i am feeling alone",
+        "speaker": "usr"
+      },
+      {
+        "text": "this happens very common in friend groups. it is understandable that you feel upset",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "this happens very common in friend groups. it is understandable that you feel upset",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "did u have an argument?",
+        "speaker": "sys",
+        "strategy": "Others"
+      },
+      {
+        "text": "Yes it is common",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes sometimes many arugument",
+        "speaker": "usr"
+      },
+      {
+        "text": "what do u argue about",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "My friends problam and we are question it",
+        "speaker": "usr"
+      },
+      {
+        "text": "its hard when you care about someone to not question there actions, when you feel you know whats best for them. is that how u r feeling?",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "I feel uncomfortable",
+        "speaker": "usr"
+      },
+      {
+        "text": "you feel uncomfortable because your friends are ignoring your feelings?",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "sometimes, people hide when they are confronted.",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "i think it may be beneficial to give your friends some time, before attempting to speak with them again. maybe you can spend time with your family while you are waiting for them to cool down.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "Yes i am sometime more in my friends",
+        "speaker": "usr"
+      },
+      {
+        "text": "do u have any friends that are still talking to you?",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "i think you should spend time with the people that make you feel wanted.",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      }
+    ]
+  },
+  {
+    "dialog_id": 702,
+    "emotion_type": "fear",
+    "problem_type": "problems with friends",
+    "situation": "I can't figure out why my friends don't understand why I want to keep a bit distant during COVID",
+    "dialog": [
+      {
+        "text": "Can you help me?",
+        "speaker": "usr"
+      },
+      {
+        "text": "sure, what seems to be the problem",
+        "speaker": "sys",
+        "strategy": "Question"
+      },
+      {
+        "text": "I can't figure out why my friends don't understand why I want to keep a bit distant during COVID",
+        "speaker": "usr"
+      },
+      {
+        "text": "I had the same issue with my friends as well",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Really? What happened?",
+        "speaker": "usr"
+      },
+      {
+        "text": "We stopped getting together and going out places cause they were all closed",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Yes, that happened here. But they still wanted to come over despite government orders limiting gatherings.",
+        "speaker": "usr"
+      },
+      {
+        "text": "We now have weekly video call meetings instead, it helps us stay connected",
+        "speaker": "sys",
+        "strategy": "Providing Suggestions"
+      },
+      {
+        "text": "That sounds like a good idea. Is it hard to do?",
+        "speaker": "usr"
+      },
+      {
+        "text": "Not at all, we use a program called Skype, that's free. You can use it on your phone or PC",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "My friends want to go out all the time. How can we connect during a Skype?",
+        "speaker": "usr"
+      },
+      {
+        "text": "Pick a time you'll both be available, and you'll both need the program. It's quite easy to use and there will be youtube videos that'll help you set it up, should you need it",
+        "speaker": "sys",
+        "strategy": "Information"
+      },
+      {
+        "text": "Do you do any activities together over Skype?",
+        "speaker": "usr"
+      },
+      {
+        "text": "We usually just chat about our week or get advice on normal things, sometimes we'll play a drinking game and be goofy together.",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "Are there other games people can play together on Skype because I don't drink?",
+        "speaker": "usr"
+      },
+      {
+        "text": "Drinking isn't a requirement, usually we'll just chat if we don't feel like drinking",
+        "speaker": "sys",
+        "strategy": "Self-disclosure"
+      },
+      {
+        "text": "I just want to connect and please my friends but it is hard to not have any physical contact and only be online.",
+        "speaker": "usr"
+      },
+      {
+        "text": "I can understand that and it's definitely frustrating. But it'll be so much better once you can see other other again, cause absence makes the heart grow fonder",
+        "speaker": "sys",
+        "strategy": "Reflection of feelings"
+      },
+      {
+        "text": "Wow, I didn't think of it that way. That puts a positive twist on it.",
+        "speaker": "usr"
+      },
+      {
+        "text": "Yes, I always like to look for the positive in any given situation",
+        "speaker": "sys",
+        "strategy": "Affirmation and Reassurance"
+      },
+      {
+        "text": "Thanks for your help. I feel a lot better.",
+        "speaker": "usr"
+      }
+    ]
+  }
+]

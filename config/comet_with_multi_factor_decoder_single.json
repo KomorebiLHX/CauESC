@@ -1,0 +1,20 @@
+{
+    "model_name": "comet_blenderbot_small_with_multi_factor_decoder_single",
+    "pretrained_model_path": "./Blenderbot_small-90M",
+    "custom_config_path": "./Blenderbot_small-90M/config_comet.json",
+    "gradient_checkpointing": false,
+  
+    "expanded_vocab": [
+      "[Situation]",
+      "[Context]",
+      "[User]",
+      "[Question]",
+      "[Restatement or Paraphrasing]",
+      "[Reflection of feelings]",
+      "[Self-disclosure]",
+      "[Affirmation and Reassurance]",
+      "[Providing Suggestions]",
+      "[Information]",
+      "[Others]"
+    ]
+}

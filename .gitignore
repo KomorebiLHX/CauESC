@@ -1,0 +1,7 @@
+**/__pycache__
+*.bin
+*.pdf
+*.pkl
+*.csv
+_reformat/*.txt
+*.ipynb
